@@ -6,7 +6,7 @@
 
 **[🚀 Live Demo](https://issuequest.vercel.app/)** · **[🐛 Report Bug](https://github.com/vivekghodekar001/issuequest/issues)**
 
-!(Screenshot 2026-02-22 221310.png)
+![Screenshot](Screenshot 2026-02-22 221310.png)
 
 </div>
 
