@@ -7,7 +7,7 @@
 **[🚀 Live Demo](https://issuequest.vercel.app/)** · **[🐛 Report Bug](https://github.com/vivekghodekar001/issuequest/issues)**
 
 <p align="center">
-  <img src="![Screenshot](app/screenshot.png)" width="600">
+  <img src="![App Screenshot](app/Screenshot.png)" width="600">
 </p>
 
 </div>
